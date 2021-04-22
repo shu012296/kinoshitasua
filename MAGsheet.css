@@ -10,6 +10,9 @@ p{
 
 }
 
-img.example{
+.example{
     width: 50px;
+}
+.example2{
+    width: 20px;
 }
