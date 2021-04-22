@@ -6,5 +6,10 @@ p{
 }
 
 .git img{
-    height: 10pt;
+    height: 10em;
+
+}
+
+img.example{
+    width: 50px;
 }
