@@ -1,18 +1,16 @@
-p{
-    color: aqua;
-}
-.fep{
-    font-size: large;
-}
-
-.git img{
-    height: 10em;
-
+.header ul{
+    list-style: none;
+    float: left;
+    margin-left: 30px;
 }
 
-.git example{
-    width: 50px;
+.header{
+    padding: o 30px;
 }
-.git example2{
-    width: 20px;
+
+.header .imglogo{
+    float: left;
+}
+li{
+    float: right;
 }
