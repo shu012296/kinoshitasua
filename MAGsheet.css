@@ -10,8 +10,9 @@
 }
 
 .header{
+    display: block;
     padding: o 30px;
-    background-image: url("img/main_visual_111-0x0.jpg");
+    background-image: url(img/main_visual_111-0x0.jpg);
 }
 
 .header .imglogo{
@@ -21,9 +22,11 @@ li{
     float: right;
 }
 .coment{
+    display: inline-block;
     text-align: center;
 }
 .product{
+    display: inline-block;
     text-align: center;
     width: 60%;
 }
