@@ -1,3 +1,7 @@
+a {
+    text-decoration:none; 
+}
+
 .header ul{
     list-style: none;
     float: left;
@@ -25,17 +29,16 @@ li{
 .coment{
     display: inline-block;
     text-align: center;
+    background-color: blueviolet;
 }
 .product{
     display: inline-block;
-    width: 60%;
     text-align: center;
 }
 
 .product2{
     display: inline-block;
     width:30%;
-
 }
 
 
