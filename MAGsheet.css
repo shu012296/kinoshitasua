@@ -5,15 +5,19 @@
 }
 .img1{
     width: 100%;
+    position: relative;
 }
+
 
 .header{
     display: block;
     padding: o 30px;
+    position: relative;
 }
 
 .header .imglogo{
     float: left;
+    width: 20%;
 }
 li{
     float: right;
