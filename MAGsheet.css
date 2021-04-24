@@ -13,6 +13,8 @@
     display: block;
     padding: o 30px;
     position: relative;
+    top: 10px;
+    left: 10px;
 }
 
 .header .imglogo{
@@ -28,11 +30,11 @@ li{
 }
 .product{
     display: inline-block;
-    text-align: center;
+    width: 60%;
+    margin: 0 auto;
 }
 .product2{
     display: inline-block;
     width: 30%;
-
 }
 
