@@ -1,6 +1,6 @@
 .imglogo{
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
 }
 
 .header ul{
@@ -18,5 +18,17 @@
 }
 li{
     float: right;
+}
+.coment{
+    text-align: center;
+}
+.product{
+    text-align: center;
+    width: 60%;
+}
+.product2{
+    display: inline-block;
+    width: 30%;
+
 }
 
