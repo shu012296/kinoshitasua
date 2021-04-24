@@ -12,6 +12,7 @@
 .header{
     display: block;
     padding: o 30px;
+    background-color: blueviolet;
     position: relative;
     top: 10px;
     left: 10px;
