@@ -10,12 +10,8 @@
 
 
 .header{
-    display: block;
+    display: inline-block;
     padding: o 30px;
-    background-color: blueviolet;
-    position: relative;
-    top: 10px;
-    left: 10px;
 }
 
 .header .imglogo{
@@ -24,18 +20,22 @@
 }
 li{
     float: right;
+    background-color: blueviolet;
 }
 .coment{
-    display: block;
-    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
 }
 .product{
     display: inline-block;
     width: 60%;
-    margin: 0 auto;
+    text-align: center;
 }
+
 .product2{
     display: inline-block;
-    width: 30%;
+    width:30%;
+
 }
+
 
