@@ -1,3 +1,8 @@
+.imglogo{
+    width: auto;
+    height: auto;
+}
+
 .header ul{
     list-style: none;
     float: left;
@@ -14,3 +19,4 @@
 li{
     float: right;
 }
+
